@@ -453,7 +453,7 @@ class reactor:
         #     pbar.update(1)
         # pil_images = pil_images_sfw
         # # #
-        progress_bar_reset(pbar)
+        # progress_bar_reset(pbar)
 
         if len(pil_images) > 0:
 
