@@ -99,7 +99,7 @@ natsort==8.4.0
 nest-asyncio==1.6.0
 networkx==3.6.1
 numba==0.63.1
-numpy==1.26.4
+numpy>=1.26.0,<3.0.0
 nvidia-cublas-cu12==12.8.4.1
 nvidia-cuda-cupti-cu12==12.8.90
 nvidia-cuda-nvrtc-cu12==12.8.93
